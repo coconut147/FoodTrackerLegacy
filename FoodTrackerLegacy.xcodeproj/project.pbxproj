@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC5E66D9235CAF17001EA2D9 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC5E66D8235CAF17001EA2D9 /* RatingControl.swift */; };
 		CCDA01D4235C596C00B138D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDA01D3235C596C00B138D4 /* AppDelegate.swift */; };
 		CCDA01D6235C596C00B138D4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDA01D5235C596C00B138D4 /* SceneDelegate.swift */; };
 		CCDA01D8235C596C00B138D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDA01D7235C596C00B138D4 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CC5E66D8235CAF17001EA2D9 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		CCDA01D0235C596C00B138D4 /* FoodTrackerLegacy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTrackerLegacy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCDA01D3235C596C00B138D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCDA01D5235C596C00B138D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				CCDA01D5235C596C00B138D4 /* SceneDelegate.swift */,
 				CCDA01D7235C596C00B138D4 /* ViewController.swift */,
 				CCDA01D9235C596C00B138D4 /* Main.storyboard */,
+				CC5E66D8235CAF17001EA2D9 /* RatingControl.swift */,
 				CCDA01DC235C596D00B138D4 /* Assets.xcassets */,
 				CCDA01DE235C596D00B138D4 /* LaunchScreen.storyboard */,
 				CCDA01E1235C596D00B138D4 /* Info.plist */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC5E66D9235CAF17001EA2D9 /* RatingControl.swift in Sources */,
 				CCDA01D8235C596C00B138D4 /* ViewController.swift in Sources */,
 				CCDA01D4235C596C00B138D4 /* AppDelegate.swift in Sources */,
 				CCDA01D6235C596C00B138D4 /* SceneDelegate.swift in Sources */,
